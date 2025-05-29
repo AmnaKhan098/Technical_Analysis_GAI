@@ -1,0 +1,8 @@
+langchain-google-genai
+finnhub-python
+google-generativeai
+requests
+Pillow
+python-dotenv
+fastapi 
+uvicorn
